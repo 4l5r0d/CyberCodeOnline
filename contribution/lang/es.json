@@ -276,7 +276,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Encontraste una antigua caja de seguridad cerrada, parece tener una nota adhesiva escrita con texto.",
+ 	 	 	 	"trans": "Encontraste una antigua caja de seguridad cerrada, parece tener una nota adhesiva con un texto escrito en ella.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -379,7 +379,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Chat de bandas se habilitará cuando perteneces a una de ellas.\\nÚnete a una banda haciéndote amigos en el chat global o creala tu misma e invita a tus compañeros.",
+ 	 	 	 	 	"trans": "Chat de bandas se habilitará cuando pertenezcas a una de ellas.\\nÚnete a una banda haciendo amigos en el chat global o créala tú mismo e invita a tus compañeros.",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
@@ -638,7 +638,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Espacio ${index} de Mejora",
+ 	 	 	 	"trans": "Ranura ${index} de Mejora",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
@@ -699,7 +699,7 @@
  	 	 	},
  	 	 	"itemUpgradeButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "potenciar",
+ 	 	 	 	 	"trans": "Mejorar",
  	 	 	 	 	"eng": "upgrade"
  	 	 	 	}
  	 	 	},
@@ -986,7 +986,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Aumentar espacios a ${nextSlotSize}",
+ 	 	 	 	"trans": "Aumentar ranuras a ${nextSlotSize}",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	},
  	 	 	"increaseSlotDescription": {
@@ -1117,7 +1117,7 @@
  	 	 	 	},
  	 	 	 	"noUpgrade": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "¡Mejora tu equippamiento!",
+ 	 	 	 	 	 	"trans": "¡Mejora tu equipamiento!",
  	 	 	 	 	 	"eng": "Upgrade your equipment!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -1134,7 +1134,7 @@
  	 	 	 	 	 	"eng": "Use AI Core"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Parece que tienes algunos núcleos de AI, úsalos para nivelar automaticamente AFK en un área adecuada.",
+ 	 	 	 	 	 	"trans": "Parece que tienes algunos Núcleos de IA, úsalos para nivelar automaticamente AFK en un área adecuada.",
  	 	 	 	 	 	"eng": "Looks like you have some AI Cores, use them to do AFK auto leveling in appropriate level area."
  	 	 	 	 	}
  	 	 	 	},
@@ -1176,7 +1176,7 @@
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Desplegando explotación remoto, paciencia...",
+ 	 	 	 	 	 	"trans": "Desplegando explotación remota, paciencia...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -1250,7 +1250,7 @@
  	 	},
  	 	"travel": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Aún no has desbloqueado este área",
+ 	 	 	 	"trans": "Aún no has desbloqueado esta área",
  	 	 	 	"eng": "You have not unlocked this area yet"
  	 	 	}
  	 	},
@@ -2270,7 +2270,7 @@
  	 	 	"eng": "Enemies"
  	 	},
  	 	"okay": {
- 	 	 	"trans": "okey",
+ 	 	 	"trans": "ok",
  	 	 	"eng": "okay"
  	 	},
  	 	"close": {
@@ -2287,11 +2287,11 @@
  	 	 	 	"eng": "Name cannot contain spaces, you may replace the space with \"_\""
  	 	 	},
  	 	 	"tooShort": {
- 	 	 	 	"trans": "El nombre debe tener 4 carácteres como mínimo",
+ 	 	 	 	"trans": "El nombre debe tener 4 caracteres como mínimo",
  	 	 	 	"eng": "Name must be at least 4 characters long"
  	 	 	},
  	 	 	"tooLong": {
- 	 	 	 	"trans": "El nombre debe tener 16 carácteres como máximo",
+ 	 	 	 	"trans": "El nombre debe tener 16 caracteres como máximo",
  	 	 	 	"eng": "Name must be less or equal to 16 characters long"
  	 	 	}
  	 	},
@@ -2610,7 +2610,7 @@
  	 	},
  	 	"m3Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nemesis Carroñero",
+ 	 	 	 	"trans": "Némesis Carroñero",
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
@@ -2742,7 +2742,7 @@
  	"quest": {
  	 	"mobileQuestPage": {
  	 	 	"requires": {
- 	 	 	 	"trans": "necesita",
+ 	 	 	 	"trans": "requiere",
  	 	 	 	"eng": "requires"
  	 	 	}
  	 	},
@@ -2782,7 +2782,7 @@
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¡Abre 4 cajas en la Mazmorra para conseguir su dulce loot!",
+ 	 	 	 	"trans": "¡Abre 4 cajas en la Mazmorra para conseguir su dulce botín!",
  	 	 	 	"eng": "Open 4 crates in dungeon to get them sweet loots!"
  	 	 	}
  	 	},
@@ -3465,17 +3465,17 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Unidad de Procesamiento Neurológico (NPU) de uso comercial. Viene con una IA para diferentes usos. \r\n        Puedes usarla para desplegar un Bot que recoja recursos en las Mazmorras.",
+ 	 	 	 	"trans": "Unidad de Procesamiento Neurológico (UPN) de uso comercial. Viene con una IA para diferentes usos. \r\n        Puedes usarla para desplegar un Bot que recoja recursos en las Mazmorras.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
  	 	"aiCoreCluster": {
  	 	 	"name": {
- 	 	 	 	"trans": "Agrupamiento de núcleo ai",
+ 	 	 	 	"trans": "Agrupamiento de Núcleo de IA",
  	 	 	 	"eng": "AI Core Cluster"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "El grupo de núcleo de IA contiene 1000 núcleos de IA. Se puede ensamblar y desmontar fácilmente.",
+ 	 	 	 	"trans": "El grupo de Núcleo de IA contiene 1000 Núcleos de IA. Se puede ensamblar y desmontar fácilmente.",
  	 	 	 	"eng": "AI Core Cluster contains 1000 AI Cores. can be easily assembled and disassembled."
  	 	 	}
  	 	},
@@ -4573,7 +4573,7 @@
  	 	"store": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey..., ven a ver mis productos."
+ 	 	 	 	 	"Hey chico... Ven a ver mis productos."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -4605,7 +4605,7 @@
  	 	"equipmentUpgrade": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Inserta un núcleo de dalibración en la máquina y te ayudaré a calibrar tu equipo."
+ 	 	 	 	 	"Inserta un núcleo de calibración en la máquina y te ayudaré a calibrar tu equipo."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -4623,7 +4623,7 @@
  	 	"storageMerchant": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hola, soy Lee. Y recuerda, no tienes que cargar todo lo que tienes en los bolsillos."
+ 	 	 	 	 	"Hey, soy Lee. Y recuerda, no tienes que cargar todo lo que tienes en los bolsillos."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -4645,7 +4645,7 @@
  	 	"blackMarket": {
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey...¿Quieres hace dinero fácil?"
+ 	 	 	 	 	"Hey chico, ¿quieres hacer dinero fácil?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, wanna make some quick bucks?"
@@ -4656,7 +4656,7 @@
  	 	 	 	"eng": "Black Market"
  	 	 	},
  	 	 	"npcName": {
- 	 	 	 	"trans": "Cero",
+ 	 	 	 	"trans": "Zero",
  	 	 	 	"eng": "Zero"
  	 	 	}
  	 	},
@@ -4698,7 +4698,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mejora tu Nivel de Impresión sin sacrificar Tecnobasura, esto ayudará a aumentar el Nivel de tus impresiones.",
+ 	 	 	 	"trans": "Mejora tu Nivel de Impresión sin consumir Tecnobasura, esto ayudará a aumentar el Nivel de tus impresiones.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -4708,7 +4708,7 @@
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Descarga datos útiles de una clínica local de modificación corporal para fabricar Bots médicos y Drones de mayor calidad.",
+ 	 	 	 	"trans": "Descarga datos útiles de una clínica local de modificación corporal para fabricar bots médicos y drones de mayor calidad.",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
@@ -4744,11 +4744,11 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Recolectar Recursos de la Banda",
+ 	 	 	 	"trans": "Recolectar Recursos de la Pandilla",
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ayuda a recolectar y administrar los recursos necesarios para tu Banda",
+ 	 	 	 	"trans": "Ayuda a recolectar y administrar los recursos necesarios para tu pandilla",
  	 	 	 	"eng": "Help gather and manage needed resources for your gang"
  	 	 	}
  	 	},
@@ -4778,7 +4778,7 @@
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        ¡Ven y juega a MEGA Pachinko! con la oportunidad de ganar GRANDES recompensas ÉPICAS\r\n        solo 5000 BTC por juego, ¡¡¡OFERTA LIMITADA!!! <3<3<3\r\n        ##Muchas gracias a Militech por patrocinar este evento##",
+ 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        ¡Ven y juega a MEGA Pachinko! con la oportunidad de ganar GRANDES y ÉPICAS recompensas\r\n        solo 5000 BTC por juego, ¡¡¡OFERTA LIMITADA!!! <3<3<3\r\n        ##Muchas gracias a Militech por patrocinar este evento##",
  	 	 	 	"eng": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 5000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##"
  	 	 	}
  	 	},
@@ -4788,7 +4788,7 @@
  	 	 	 	"eng": "Play MEGA Pachinko s plus pro max"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa !! UwU \r\n         ¿Te sientes rico y con suerte hoy? \r\n         ¡Juega ahora solo 1,000,000 BTC una vez (¡Oferta especial de tiempo limitado!) Con 0.1% de probabilidad de ganar un artículo épico!",
+ 	 	 	 	"trans": "Konnichiwa !! UwU \r\n         ¿Te sientes adinerado y con suerte hoy? \r\n         ¡Juega ahora solo 1,000,000 BTC una vez (¡Oferta especial de tiempo limitado!) Con 0.1% de probabilidad de ganar un artículo épico!",
  	 	 	 	"eng": "Konnichiwa!! UwU\r\n        Are you feeling rich and lucky today?\r\n        play now only 1,000,000 btc once (limited time special offer!) with 0.1% chance to win a EPIC item! \r\n        "
  	 	 	}
  	 	},
@@ -4798,7 +4798,7 @@
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Soborna a los funcionarios gubernamentales y a la SLPD para recolectar las cuotas de protección de los empresarios y ciudadanos en Shangri-La. ¿Tal vez obtengas algunos Objetos Épicos? (Exclusivo de las dos mejores Bandas)",
+ 	 	 	 	"trans": "Soborna a los funcionarios gubernamentales y a la SLPD para recolectar las cuotas de protección de los empresarios y ciudadanos en Shangri-La. ¿Tal vez obtengas algunos Objetos Épicos? (Exclusivo de las dos mejores Pandillas)",
  	 	 	 	"eng": "Bribe government officials and the SLPD to collect protection fees from business owners and citizens in Shangri-La. Maybe you’ll get some EPIC items from them? (Exclusive to the Top 2 Gangs on the Occupation Leaderboard"
  	 	 	}
  	 	},
@@ -4814,11 +4814,11 @@
  	 	},
  	 	"autoFarm": {
  	 	 	"name": {
- 	 	 	 	"trans": "Desplegar Bot de farmeo",
+ 	 	 	 	"trans": "Desplegar bot de farmeo",
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[AFK EXP Farm]\r\n        Despliegas un Bot implementado con IA que explora por ti. Esto consumirá un Núcleo de IA y solo soporta un uso.",
+ 	 	 	 	"trans": "[AFK EXP Farm]\r\n        Despliegas un bot implementado con IA que explora por ti. Esto consumirá un Núcleo de IA y solo soporta un uso.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
@@ -4887,7 +4887,7 @@
  	 	 	},
  	 	 	"molecularPrint": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Imprimir equipo",
+ 	 	 	 	 	"trans": "Imprimir equipamiento",
  	 	 	 	 	"eng": "Print equipment"
  	 	 	 	},
  	 	 	 	"description": {
@@ -4957,7 +4957,7 @@
  	 	 	},
  	 	 	"sellItem": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Sé comerciante",
+ 	 	 	 	 	"trans": "Sé un comerciante",
  	 	 	 	 	"eng": "Be a merchant"
  	 	 	 	},
  	 	 	 	"description": {
@@ -5032,7 +5032,7 @@
  	 	},
  	 	"aiCoreCluster": {
  	 	 	"name": {
- 	 	 	 	"trans": "Agrupamiento de núcleo ai",
+ 	 	 	 	"trans": "Agrupamiento de Núcleo de IA",
  	 	 	 	"eng": "AI Core Cluster"
  	 	 	}
  	 	},
@@ -5047,13 +5047,13 @@
  	 	 	"vars": [
  	 	 	 	"minLevel"
  	 	 	],
- 	 	 	"trans": "Carga de antimateria (lv ${minLevel})",
+ 	 	 	"trans": "Carga de Antimateria (lv ${minLevel})",
  	 	 	"eng": "Anti Matter Charge (lv${minLevel})"
  	 	}
  	},
  	"reportPlayerType": {
  	 	"inappropriateLang": {
- 	 	 	"trans": "lenguaje inapropiado",
+ 	 	 	"trans": "Lenguaje Inapropiado",
  	 	 	"eng": "Inappropriate Language"
  	 	},
  	 	"aggressiveBehavior": {
@@ -5182,7 +5182,7 @@
  	},
  	"chatServer": {
  	 	"restarting": {
- 	 	 	"trans": "El servidor de chat está reiniciando para una actualización ...",
+ 	 	 	"trans": "El servidor de chat se está reiniciando para una actualización ...",
  	 	 	"eng": "Chat Server is restarting for a update..."
  	 	}
  	},
@@ -5263,7 +5263,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Nivel recomendado:　${maxLevel}+ con ayuda\r\n                    ${expMultiplier}x más EXP! y 4~5x enemigos más fuertes!\r\n                    Mazmorra en modo Banda, botín y EXP extra. \r\n                 El botín de los Jefes es: Raro o mayor \r\n                    *No para debiles de corazón*",
+ 	 	 	 	"trans": "Nivel recomendado:　${maxLevel}+ con ayuda\r\n                    ${expMultiplier}x más EXP! y 4~5x enemigos más fuertes!\r\n                    Mazmorra en modo Pandilla, botín y EXP extra. \r\n                 El botín de los Jefes es: Raro o mayor \r\n                    *No para debiles de corazón*",
  	 	 	 	"eng": "Recommended Level: ${maxLevel}+ with co-op\r\n                    ${2.3}x more EXP! and 4~5x stronger enemies!\r\n                    Gang mode dungeon, extra loot and exp.\r\n                    *Not for the faint of heart*"
  	 	 	}
  	 	},
@@ -5445,7 +5445,7 @@
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeEvade": {
- 	 	 	"trans": "Evasivo",
+ 	 	 	"trans": "Evasión",
  	 	 	"eng": "of Evade"
  	 	},
  	 	"upgradePocketed": {
@@ -5616,7 +5616,7 @@
  	 	 	 	"eng": "Block"
  	 	 	},
  	 	 	"report": {
- 	 	 	 	"trans": "Informe y bloqueo",
+ 	 	 	 	"trans": "Informar y bloquear",
  	 	 	 	"eng": "Report and Block"
  	 	 	},
  	 	 	"openPlayerProfile": {
@@ -5624,7 +5624,7 @@
  	 	 	 	"eng": "View Profile"
  	 	 	},
  	 	 	"openPlayerGang": {
- 	 	 	 	"trans": "Ver Banda",
+ 	 	 	 	"trans": "Ver Pandilla",
  	 	 	 	"eng": "View Gang"
  	 	 	},
  	 	 	"sendGift": {
@@ -5706,7 +5706,7 @@
  	 	 	 	"eng": "Go to GitHub"
  	 	 	},
  	 	 	"cancel": {
- 	 	 	 	"trans": "Ok",
+ 	 	 	 	"trans": "ok",
  	 	 	 	"eng": "ok"
  	 	 	}
  	 	},
@@ -5734,12 +5734,12 @@
  	 	 	 	"eng": "As this game is made by only one person, it's very difficult translate all languages correctly, but I am working on adding more translations :)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Puedes cambiar el idioma en cualquier momento en las configuraciones",
+ 	 	 	 	"trans": "Puedes cambiar el idioma en cualquier momento en la pestaña de configuración",
  	 	 	 	"eng": "You can change language anytime at the settings page"
  	 	 	},
  	 	 	"dontShowAgain": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "No muestrar esto de nuevo",
+ 	 	 	 	 	"trans": "No mostrar esto de nuevo",
  	 	 	 	 	"eng": "Don't show this again"
  	 	 	 	}
  	 	 	},
@@ -5760,7 +5760,7 @@
  	 	},
  	 	"playerSearch": {
  	 	 	"searchPlayerHint": {
- 	 	 	 	"trans": "Ingrese el nombre de quien quieres buscar",
+ 	 	 	 	"trans": "Ingrese el nombre de quién quieres buscar",
  	 	 	 	"eng": "Enter player name to search"
  	 	 	},
  	 	 	"noPlayerFound": {
@@ -5828,7 +5828,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"dontAskMeAgain": {
- 	 	 	 	"trans": "No me preguntes de nuevo",
+ 	 	 	 	"trans": "No preguntarme de nuevo",
  	 	 	 	"eng": "Don't ask me again"
  	 	 	},
  	 	 	"reviewLater": {
@@ -5878,17 +5878,17 @@
  	"createClanModal": {
  	 	"gangNameInput": {
  	 	 	"title": {
- 	 	 	 	"trans": "Nombre de banda",
+ 	 	 	 	"trans": "Nombre de Pandilla",
  	 	 	 	"eng": "Gang Name"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ingrese el nombre completo de tu banda",
+ 	 	 	 	"trans": "Ingrese el nombre completo de tu pandilla",
  	 	 	 	"eng": "Enter the full name of your gang"
  	 	 	}
  	 	},
  	 	"gangShortNameInput": {
  	 	 	"title": {
- 	 	 	 	"trans": "Etiqueta de Banda",
+ 	 	 	 	"trans": "Etiqueta de Pandilla",
  	 	 	 	"eng": "Gang Tag"
  	 	 	},
  	 	 	"description": {
@@ -5897,7 +5897,7 @@
  	 	 	}
  	 	},
  	 	"createButton": {
- 	 	 	"trans": "Crear banda",
+ 	 	 	"trans": "Crear pandilla",
  	 	 	"eng": "Create gang"
  	 	},
  	 	"error": {
@@ -5968,7 +5968,7 @@
  	 	 	 	"trans": "Administrar",
  	 	 	 	"eng": "Manage",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Permita que esta persona administre el permiso de Netrunners",
+ 	 	 	 	 	"trans": "Permita que esta persona administre el permiso de otros Netrunners",
  	 	 	 	 	"eng": "Allow this player to manage permission of other players"
  	 	 	 	}
  	 	 	}
@@ -5991,7 +5991,7 @@
  	 	},
  	 	"message": {
  	 	 	"content1": {
- 	 	 	 	"trans": "¡Hola Netrunners!",
+ 	 	 	 	"trans": "¡Hola, Netrunners!",
  	 	 	 	"eng": "Hello, dear players!"
  	 	 	},
  	 	 	"content2": {
